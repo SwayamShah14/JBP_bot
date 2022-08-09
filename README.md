@@ -1,6 +1,7 @@
 # Jordan Peterson Bot
 
-Here's a link to the Twitter bot: https://twitter.com/real_JBP
+Here's a link to the Twitter bot: https://twitter.com/real_JBP (tracery)
+                                  https://twitter.com/RealBot_JBP (markovify+spacy)
 
 As a serious intellectual (we are high school students), we believe that Jordan B Peterson has an inherently flawed view of the world (he's just dumb). So we spent a lot of time on this bot , in order to highlight his flawed logic (and shit on him). 
 
