@@ -4,14 +4,6 @@ import markovify
 import tweepy
 import random
 import datetime
-from keys import keys
-
-
-# Starts the api and auth
-consumer_key = keys['replace it consumer_key']
-consumer_secret = keys['replace it consumer_secret']
-access_token = keys['replace it access_token']
-access_token_secret = keys['replace it access_token_secret']
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
