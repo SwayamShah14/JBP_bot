@@ -7,4 +7,4 @@ As a serious intellectuals (we are high school students), we believe that Jordan
 ![image](https://user-images.githubusercontent.com/70523246/182074484-123c9764-89a0-4a51-8d60-5c9c92cb37af.png)
 
 
-For any additions to the tracery pseuadocode, submit a pull request, and I'll add it to both the Github repo.
+For any additions to the tracery pseuadocode, submit a pull request, and I'll add it to the Github repo.
